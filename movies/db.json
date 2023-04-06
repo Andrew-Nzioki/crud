@@ -1,0 +1,14 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "title": "The Brave Little Toaster",
+            "summary": "A group of appliances set off on a journey"
+          },
+          {
+            "id": 1,
+            "title": "The Brave Little Toaster",
+            "summary": "A group of appliances set off on a journey"
+          }
+    ]
+}

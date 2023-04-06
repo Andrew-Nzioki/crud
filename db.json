@@ -1,0 +1,46 @@
+{
+  "animalData": [
+    {
+      "id": 1,
+      "name": "Red panda",
+      "imageUrl": "",
+      "description": "not actually a panda",
+      "donations": 0
+    },
+    {
+      "id": 2,
+      "name": "Lion",
+      "imageUrl": "",
+      "description": "not actually a panda",
+      "donations": 0
+    },
+    {
+      "id": 3,
+      "name": "Rhino",
+      "imageUrl": "",
+      "description": "not actually a panda",
+      "donations": 0
+    },
+    {
+      "name": "pinguin",
+      "imageUrl": "https://images.unsplash.com/photo-1551306416-bdf623f9bccc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGluZ3VpbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "cute pinguin",
+      "donations": 0,
+      "id": 5
+    },
+    {
+      "name": "Cat",
+      "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "cute cat",
+      "donations": 0,
+      "id": 6
+    },
+    {
+      "name": "goat",
+      "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw8PDw4PDw8QDw4PDw8PEA8PDw8PFREXFhUVFRUYHSggGBonHRUVITEhJSktLi8uFx8zODMsNygtLisBCgoKDg0OGhAQGisdIB4tLS0tNy0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLTAtLS0tLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAEBAAIDAQEAAAAAAAAAAAAAAQUGAgQHAwj/xAA6EAACAQIEAggEBAYBBQAAAAAAAQIDEQQSITEFQQYTIlFhcYGRMkKhsSNSweEHFHKS0fBiFiQzU4L/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB8RAQEAAgIDAQEBAAAAAAAAAAABAhEDMRIhQVFhMv/aAAwDAQACEQMRAD8A9CNLr/xEwlKvUo1ozgoTcVVWsXb80ZJOL8NTdDQenvC8bUlKdClh6tOSSzRpwWLgktYtv44+WuprnbJuKYSX1W0YDj2FxC/CxFOV+WbLL2ZkkfnWtwyon2VllG6/CbpyTvreP7nc4b0k4jhWlTr1LL5Kif2ehnOb9XvF+P0AVM8q4X/FOStHFYfwco3j/vsjdOE9L8FiUstZRf5Z2X1WnuaTPGqXCxsQOMJpq6aaezTTT9TkXUcgRMoFKcTkgAAIAADYAAbAAAAANgACQAAEBQBCFAEAAAAAAABLGF6R8AoYuClVpzlOkpOm6TUamu6V9H6mbFiLJZqplsu48hnwe0pZMJKsm7NV49TVj97HwxnR5pRy4KtRv8efNWj4OMloj0rpFw6tWlTlSk0o3TUXlkr8/HyOtR4DiN1j8Qn3Pl9jkuFl06pnLNvLJcBk7qMJO35NfoznS4GoJOdOad7XtKn+x6ZX6Nyvepjs3jNWfvmMVxLARpQcXWjUT2/Ek1fk2rfqV1U7lYDB9bT0oYmvT56SkrP/AOrqS8GZrhXS7",
+      "description": "meat goat",
+      "donations": 0,
+      "id": 7
+    }
+  ]
+}
